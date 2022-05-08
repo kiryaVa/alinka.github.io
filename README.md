@@ -6,7 +6,6 @@
         </header>
         <main>
             <nav class="abobaf">
-                 <ahref="#price"class="abobaba"как купить?></a>
                 <a href="#delivery" class="cf"></a>
                 <a href="#wholesale" class="cf"></a>
                 <a href="#about_us" class="cf"></a>
@@ -50,3 +49,48 @@
         </footer>
     </body>
 </html>
+<css>
+.eee {
+ background: white;
+}
+body {
+    font-family: sans-serif;
+}
+ .aboba {
+background: rgb(255, 255, 255);
+}
+  {
+background: blue;
+}
+ .abobaba {
+  color: rgb(0, 0, 0);
+}
+ body { 
+background: black;
+ color: white;
+}
+ p {
+background: black;
+ color: white;
+}
+ .e {
+background: 
+}
+ d {
+color: rgb(0, 0, 0);
+}
+ .c {
+    border: 4px solid rgb(0, 26, 255);
+    border-radius: 10px;
+    background: black;
+}
+ .q {
+text-align: center;
+}
+ .fff {
+color: black;
+background: white;
+}
+ .aaa {
+background: white;
+}
