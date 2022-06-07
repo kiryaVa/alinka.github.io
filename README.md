@@ -37,10 +37,10 @@
             <p></p>
             <p></p>
             <img src="" width="200px"/>
-            <h2 id="about_us">О компании</h2>
-            <p>Наша история началась с магазина, открывшегося в 2005 году. Тогда мы предлагали только хлопушки.</p>
-            <p>В 2015 году у нас появился сайт, а ассортимент пополнился новыми видами товаров.</p>
-            <img src="" width="200px"/><br/>
+            <h2 id="about_us">О магазине</h2>
+            <p>о магазине как не странно.</p>
+            <p></p>
+            <img src="" width="200px"/>картинка<br/>
             <p><a href="#logo">Наверх</a></p>
         </main>
         <footer class="aaa">
@@ -51,13 +51,13 @@
     </body>
 </html>
 <css>
-.eee {
+.eee{
  background: white;
 }
-body {
+body{
     font-family: sans-serif;
 }
- .aboba {
+ .aboba{
 background: rgb(255, 255, 255);
 }
   {
